@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🏗️ Simple Metallurgical Optimizer")
+st.title("🏗️ Metallurgical Optimizer")
 
 # --- 1. SIMPLE INPUTS ---
 st.header("Inputs")
